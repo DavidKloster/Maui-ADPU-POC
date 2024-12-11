@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADPUReader", "ADPUReader\ADPUReader.csproj", "{8864B536-F220-4C07-A863-08A422275FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apduNDEF", "apduNDEF\apduNDEF.csproj", "{691320C5-6312-493F-BB44-FDFF5E27627C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8864B536-F220-4C07-A863-08A422275FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8864B536-F220-4C07-A863-08A422275FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8864B536-F220-4C07-A863-08A422275FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8864B536-F220-4C07-A863-08A422275FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691320C5-6312-493F-BB44-FDFF5E27627C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691320C5-6312-493F-BB44-FDFF5E27627C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691320C5-6312-493F-BB44-FDFF5E27627C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691320C5-6312-493F-BB44-FDFF5E27627C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

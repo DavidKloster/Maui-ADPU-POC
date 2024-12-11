@@ -1,0 +1,5 @@
+﻿<resources>
+  <string name="service_description">HCE Service</string>
+  <string name="aid_description">HCE AID Group</string>
+  <string name="app_name">APDU NDEF</string>
+</resources>
